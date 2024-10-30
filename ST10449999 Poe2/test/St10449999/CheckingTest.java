@@ -12,7 +12,7 @@ import org.junit.Test;
 
 /**
  *
- * @author isaac
+ * @author HAPPY
  */
 public class CheckingTest {
     Task task1 = new Task("Login Feature", 0, "Robyn Harrison" , "Create Login to authenticate users", "To Do", 8);

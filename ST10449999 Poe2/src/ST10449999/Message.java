@@ -1,4 +1,4 @@
-package st10074970;
+package st10449999;
 
 /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
@@ -7,7 +7,7 @@ package st10074970;
 
 /**
  *
- * @author isaac
+ * @author HAPPY
  */
 public class Message 
 {

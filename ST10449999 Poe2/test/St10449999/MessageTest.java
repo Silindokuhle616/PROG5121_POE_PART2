@@ -5,16 +5,16 @@ package St10449999;
  * Click nbfs://nbhost/SystemFileSystem/Templates/UnitTests/JUnit4TestClass.java to edit this template
  */
 
-import st10074970.Message;
+import st10449999.Message;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertFalse;
 
 import org.junit.Test;
-import st10074970.Message;
+import st10449999.Message;
 import static org.junit.jupiter.api.Assertions.assertTrue;
 /**
  *
- * @author isaac
+ * @author Happy
  */
 public class MessageTest 
 {
